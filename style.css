@@ -139,6 +139,7 @@ h1 {
     font-size: 25px;
     border: solid;
     box-shadow: 30px 30px 40px rgb(0, 0, 0);
+    flex-wrap: wrap;
 }
 
 .blue-box .button {
