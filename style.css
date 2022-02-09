@@ -70,6 +70,9 @@ header, footer {
     margin-top: 10px;
 }
 
+.button:hover {
+    background-color: aqua; }
+
 .header-img {
     
     max-width: 400px;
