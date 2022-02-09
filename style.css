@@ -70,8 +70,9 @@ header, footer {
     margin-top: 10px;
 }
 
-.button:hover {
-    background-color: black; }
+submit {
+    background-color: black; 
+}
 
 .header-img {
     
